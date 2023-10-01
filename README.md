@@ -1,4 +1,4 @@
-![image](https://github.com/pmsolanki23/MAD_Practical-6_21012011142/assets/139521191/5a03f4e8-9539-4f53-8e23-9800b0f16441)# MAD_Practical-6_21012011142
+# MAD_Practical-6_21012011142
 
 Study: Service, Types of Service, Drawable Icon Add in project, MediaPlayer, Add Raw folder, Add mp3 song in raw folder
 
